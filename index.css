@@ -1,0 +1,9 @@
+.container{
+  color:yellowgreen;
+  background-color: black;
+  border: 10px solid gray;
+  width: 30%;
+  border-radius: 10px;
+  margin: 2%;
+  padding: 2%;
+}
